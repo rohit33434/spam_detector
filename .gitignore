@@ -38,3 +38,20 @@ spam_model.h5
 .vscode/
 .idea/
 .DS_Store
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.env
+*.env.*
+# machine learning artifacts
+*.h5
+*.hdf5
+spam_model.h5
+# IDE
+.vscode/
+.idea/
+.DS_Store
